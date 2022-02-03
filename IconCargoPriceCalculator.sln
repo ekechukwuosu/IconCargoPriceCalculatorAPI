@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IconCargoPriceCalculator", "IconCargoPriceCalculator\IconCargoPriceCalculator.csproj", "{D3AE5BBD-898B-4A9E-8CAD-E392AEEB5AB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconCargoPriceCalculator.Tests", "IconCargoPriceCalculator.Tests\IconCargoPriceCalculator.Tests.csproj", "{D1D288BE-610A-42A6-9DCC-8FFB923BAB78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AE5BBD-898B-4A9E-8CAD-E392AEEB5AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AE5BBD-898B-4A9E-8CAD-E392AEEB5AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AE5BBD-898B-4A9E-8CAD-E392AEEB5AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AE5BBD-898B-4A9E-8CAD-E392AEEB5AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1D288BE-610A-42A6-9DCC-8FFB923BAB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D288BE-610A-42A6-9DCC-8FFB923BAB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D288BE-610A-42A6-9DCC-8FFB923BAB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D288BE-610A-42A6-9DCC-8FFB923BAB78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D62A8DB-ABD9-404E-B3DA-33BC153C4748}
+	EndGlobalSection
+EndGlobal
